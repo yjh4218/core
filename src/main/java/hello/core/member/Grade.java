@@ -1,6 +1,6 @@
 package hello.core.member;
 
-public enum Gradle {
+public enum Grade {
     BASIC,
     VIP
 }
